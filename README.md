@@ -5,7 +5,7 @@ C++制作的小游戏( 图形库基于 easyx库)
 author: Seventeen Xu 
 ![image](https://github.com/seventeenxsq/CPP-Game-gaze/assets/50203389/f5aae0f1-0243-468e-9b28-6bc06b1a272f)
 
-演示: 
+演示: https://www.bilibili.com/video/BV1BA4m1G7mJ/
 
 # 游戏玩法设计:
 地图是隐藏的，人物只能看见周边的地图，需要在收集3个药水道具![image](https://github.com/seventeenxsq/CPP-Game-gaze/assets/50203389/e6b66f67-bf0e-4b8a-97a1-40ae69dac86c)
